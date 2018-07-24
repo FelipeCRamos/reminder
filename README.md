@@ -1,6 +1,12 @@
 # Reminder for Terminal
 A simple reminder for all the shell users that may want to remember a special date ~~or deadline~~.
 
+
+
+![](screens/preview.png)
+
+
+
 ## Tips for usage
 I made this script just to put on my `.zshrc` file, so every time it starts a new terminal window, it appears the reminder of that particular event!
 
